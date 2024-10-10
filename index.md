@@ -19,6 +19,3 @@ For regular communication, please use my student email: **zhang-zj@stu.pku.edu.c
 
 - maybe something in the future......
 
-{% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
