@@ -1,13 +1,13 @@
 # Basic Information 
 title: Zhaoji Zhang (兆骥 张)
-position: Senior Undergraduate Student
-affiliation: Peking University
+position: Graduate Student
+affiliation: Peking University; Chinese Institute for Barin Research, Beijing (CIBR); Center for Life Sciences (CLS)
 email: zhang-zj@stu.pku.edu.cn
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: Zhaoji, Neuroscience, Computational Neuroscience, System neuroscience
-title: Zhang Zhaoji's homepage
+title: Zhaoji's Zhang Homepage
 # minimal light
 description: This is a personal website belongs to Zhaoji Zhang, based on the template of https://github.com/yaoyao-liu/minimal-light
 # The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
@@ -37,7 +37,7 @@ auto_dark_mode: true
 
 # Font
 # You can use this option to choose between Serif or Sans Serif fonts.
-font: "Serif" # or "Sans Serif"
+font: "Sans Serif" # or "Serif"
 
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics
