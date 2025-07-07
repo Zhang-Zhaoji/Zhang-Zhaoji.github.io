@@ -4,11 +4,9 @@ layout: homepage
 
 ## About me
 
-It is my pleasure to meet you here. I am **Zhang Zhaoji(张兆骥 in Simplified Chinese)**, a graduate student from Peking University. After 4 years hardwork at Peking University, I earned 2 Bachelor of Science on **Chemical Biology** and  **Intelligence Science and Technology**(also known as AI). 
+It is my pleasure to meet you here. I am **Zhaoji Zhang(张 兆骥 in Simplified Chinese)**, a graduate student from Peking University. After 4 years hardwork at Peking University, I earned 2 Bachelor of Science on **Chemical Biology** and  **Intelligence Science and Technology**(also known as AI). I am going to the Center of Life Science(CLS)@PKU-THU to persue my PhD in Integrated Life Science after 1st Sept 2025. Hope we would have a great time there.
 
 My curiosity about Neuroscience, especially circuit, computation, and system neuroscience, has led me to be an intern at [Yatang-Li's Lab](https://yatanglilab.cibr.ac.cn/en/) at the Chinese Institute for Brain Research, Beijing (CIBR, Beijing). 
-
-I am going to the Center of Life Science(CLS)@PKU-THU to persuit my PhD in Integrated Life Science on 1st Sept 2025. Hope we would have a great time there.
 
 [My undergraduate_academic transcript](https://drive.google.com/file/d/1somZXkrMlVg3rWUyF3WMa0-Za7p0GWp_/view?usp=sharing) is available for a deeper look into my academic journey, and you can find my research profile on [ORCID](https://orcid.org/0009-0002-3293-1961). 
 
@@ -18,7 +16,7 @@ If you want to contact me, recently please**DO NOT EVEN TRY** to send emails to 
 
 - **Neuroscience:** Saliency Detection & Perception, Visual Encoding&Decoding, BMI/BCI, 
 - **Computer Vision:** Saliency Detection, Video Saliency Detection, segmentation. One of the funniest problem is to train model to do new jobs like segment octopus and do pose estimations(which is quite complex due to its flexibility).
-- **Multi Agent Reinforcement Learning:** it is very cool to discover how herd and octopus behave. How do they perform such complex behaviors through very simple computaion techniques, just like our brain, ANN, superconductivity?
+- **Multi Agent Reinforcement Learning:** It is very cool to discover how herd and octopus behave. How do they perform such complex behaviors through very simple computaion techniques, just like our brain, ANN, and superconductivity?
 - Recently I have learned some basic electronic skills including Arduino, Soldering and PCB. Maybe I would put them into use in our lab in the future. Molecular Biology (also organic chemistry) experiments are always boring, time consuming and Programmatic for human experimenters. What if we do a little coding here?
 
 ## News
