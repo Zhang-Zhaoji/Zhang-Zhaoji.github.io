@@ -4,11 +4,11 @@ layout: homepage
 
 ## About me
 
-It is my pleasure to meet you here. I am **Zhaoji Zhang(张 兆骥 in Simplified Chinese)**, a graduate student from Peking University. After 4 years hardwork at Peking University, I earned 2 Bachelor of Science on **Chemical Biology** and  **Intelligence Science and Technology**(also known as AI). I have been persuing my Ph.D. in Integrated Life Science at Center of Life Science(CLS)@PKU-THU since Spet. 2025. Currently I am still in rotation, and willing to explore different aspects of neuroscience labs.
+It is my pleasure to meet you here. I am **Zhaoji Zhang(张 兆骥 in Simplified Chinese)**, a graduate student from Peking University. After 4-year hard work at Peking University, I earned 2 Bachelor of Science on **Chemical Biology** and  **Intelligence Science and Technology**(also known as AI). I am persuing my Ph.D. in Integrated Life Science at Center of Life Science(CLS)@PKU-THU(2025-). Currently I am still in rotation, and willing to explore different aspects of neuroscience labs.
 
 My curiosity about Neuroscience, especially circuit, computation, and system neuroscience, has led me to be an intern at [Yatang-Li's Lab](https://yatanglilab.cibr.ac.cn/en/) at the Chinese Institute for Brain Research, Beijing (CIBR, Beijing) and finally led me into integrated life science program at Center for Life Science, Academy for Advanced Interdisciplinary Studies, Peking University.
 
-[My undergraduate_academic transcript](https://drive.google.com/file/d/1somZXkrMlVg3rWUyF3WMa0-Za7p0GWp_/view?usp=sharing) is available for a deeper look into my academic journey, and you can find my research profile on [ORCID](https://orcid.org/0009-0002-3293-1961). 
+[My undergraduate_academic transcript](https://drive.google.com/file/d/1somZXkrMlVg3rWUyF3WMa0-Za7p0GWp_/view?usp=sharing) and [my resume](https://github.com/Zhang-Zhaoji/Zhang-Zhaoji.github.io/blob/main/assets/files/Resume.pdf) are available for a deeper look into my academic journey, and you can find my research profile on [ORCID](https://orcid.org/0009-0002-3293-1961). 
 
 If you want to contact me, please email me at 2501111571@stu.pku.edu.cn or zhang-zj@stu.pku.edu.cn. Checking my student e-mail is one of my daily routine, so I would respond that in around 24 hours.
 
