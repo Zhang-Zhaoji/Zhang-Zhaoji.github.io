@@ -29,6 +29,7 @@ If you want to contact me, please email me at **2501111571@stu.pku.edu.cn** or *
 
 ## News
 
+- 2025 October: After First Rotation in Prof. Fang Fang's lab,I entered Prof. Mu Zhou's lab for the second rotation position.
 - 2025 September: I attended [The 18th Annual Meeting of Chinese Neuroscience Society(CNS) at Xi'an](https://cns.org.cn/2025/). We held a poster at P15-46, and published [our abstract](https://github.com/Zhang-Zhaoji/Zhang-Zhaoji.github.io/blob/main/assets/files/abstractAtCNS2025.pdf) online. However, the full work have not been published yet. We may not send out private data now, but might be available soon. During the conference I met a couple of my old friends and (ex)colleagues, and attend several inspiring sessions, including those held by Songting Li, Kexin Yuan, Xinyu Zhao, Zengcai Guo, Huihui ZHang, Athena Akrami, Qianli Yang, Jiayi Zhang and other researchers. Thank you for your excellent reports and great works. 
 - 2025 September: I entered [Prof. Fang Fang's Lab](https://www.psy.pku.edu.cn/szdw/qzjy/jsyjy/ffjs/index.htm) at School of Psychological and Cognitive Sciences, Peking University for the first rotation position, and doing some computational modeling of Rhythmic Attention Sampling.
 - 2025 September: I have a great time talking to [Prof. Kexin Yuan](https://brain.tsinghua.edu.cn/info/1010/1015.htm) At Tsinghua University and Yixiao Gao, the PhD student who developed the [VIVIT technique](https://www.cell.com/cell/fulltext/S0092-8674(25)00813-X). We had a lot of fun, wish we could have more collebration in the future.
