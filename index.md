@@ -10,7 +10,7 @@ My curiosity about Neuroscience, especially circuit, computation, and system neu
 
 [My resume](https://github.com/Zhang-Zhaoji/Zhang-Zhaoji.github.io/blob/main/assets/files/Resume.pdf) and [my undergraduate academic transcript](https://drive.google.com/file/d/1somZXkrMlVg3rWUyF3WMa0-Za7p0GWp_/view?usp=sharing) are available for a deeper look into my academic journey, and you can find my research profile on [ORCID](https://orcid.org/0009-0002-3293-1961). 
 
-If you want to contact me, please email me at **2501111571@stu.pku.edu.cn** or **zhang-zj@stu.pku.edu.cn**. Checking my student e-mail is one of my daily routines, so I would respond to that within around 24 hours.
+If you want to contact me, please email me at **2501111571@stu.pku.edu.cn** or **zhang-zj@stu.pku.edu.cn**. Checking my student e-mail is one of my daily routines, so I would respond to that within around 24 hours. (However, it is not always stable. December 2025: I'm glad to say that our mailbox broke again, and for the first time since the website was established, I have saved the [evidence](https://github.com/Zhang-Zhaoji/Zhang-Zhaoji.github.io/blob/main/assets/img/mailbroke.png). If the email is really important for you, please send it to my personal email as a backup or send it again after several hours or workdays.)
 
 ## Research Interests
 
